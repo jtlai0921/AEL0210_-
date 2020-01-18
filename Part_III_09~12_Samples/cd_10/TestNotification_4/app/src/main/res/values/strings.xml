@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TestNotification_4</string>
+    <string name="local_service_started">通知測試 -- title 11</string>
+    <string name="local_service_label">通知測試 -- title 22</string>
+    <string name="local_service_content">通知測試 -- content</string>
+    <string name="local_service_stopped">停止測試 -- title 33</string>
+
+    <string name="local_service_connected">連接測試 </string>
+    <string name="local_service_disconnected">斷線測試 </string>
+</resources>
